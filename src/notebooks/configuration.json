@@ -1,0 +1,38 @@
+[
+  { "attribute": "invoice_amount",
+    "color": "#FF0000",
+    "display_name": "Invoice amount"
+  },
+  { "attribute": "invoice_currency",
+    "color": "#FF0000",
+    "display_name": "Currency"
+  },
+  { "attribute": "invoice_date",
+    "color": "#FF0000",
+    "display_name": "Invoice date"
+  },
+  { "attribute": "invoice_number",
+    "color": "#FF0000",
+    "display_name": "Invoice number"
+  },
+  { "attribute": "signature",
+    "color": "#0000FF",
+    "display_name": "Signature"
+  },
+  { "attribute": "proper_nouns",
+    "color": "#FFAA12",
+    "display_name": "Proper nouns"
+  },
+  { "attribute": "PERSON",
+    "color": "#12FF34",
+    "display_name": "Person"
+  },
+  { "attribute": "ORG",
+    "color": "#12FF34",
+    "display_name": "Organization"
+  },
+  { "attribute": "GPE",
+    "color": "#12FF34",
+    "display_name": "GPE"
+  }
+]

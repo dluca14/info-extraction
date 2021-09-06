@@ -1,0 +1,20 @@
+{
+  "EUR0": {
+    "symbol_convention": "€",
+    "name": "Euro",
+    "symbol": "€",
+    "currency": "EUR"
+  },
+  "GBP0": {
+    "symbol_convention": "£",
+    "name": "Pound",
+    "symbol": "£",
+    "currency": "GBP"
+  },
+  "USD0": {
+    "symbol_convention": "$",
+    "name": "Dollar",
+    "symbol": "$",
+    "currency": "USD"
+  }
+}
